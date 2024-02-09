@@ -104,7 +104,7 @@ public class ShoppingListArrayList implements ShoppingListADT {
         // return the corresponding entry in the shoppingList
         // need to change the return value
         // return null;
-        
+        return this.shoppingList.get(index);
 
 
 
