@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ITCS2214_Shopping">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/ITCS2214_Shopping.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
